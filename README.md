@@ -1,2 +1,1 @@
-# tintinnids
-Scripts for volumetric analyses of tintinnid cells and shells (available soon)
+# R scripts for volumetric analyses of tintinnid cells and shells (documentation available soon)
